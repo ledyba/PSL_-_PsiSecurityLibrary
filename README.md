@@ -6,5 +6,5 @@ RSAっていう文字列も見えたけど、これは途中で挫折してる�
 
 License
 ====
-GPL v3 or later
+AGPL v3 or later
 
